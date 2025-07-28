@@ -14,5 +14,5 @@
   "eslint.enable": true,
   "eslint.debug": true,
   "eslint.lintTask.enable": true,
-  "editor.formatOnSave": false
+  "editor.formatOnSave": true
 }
